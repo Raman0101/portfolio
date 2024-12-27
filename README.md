@@ -1,4 +1,4 @@
-# AkashGaur.com
+# Raman Kumar
 
 My personal website made using React and hosted on Github Pages.
 
